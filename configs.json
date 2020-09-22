@@ -1,0 +1,14 @@
+{
+    "titulomensagemdm": "Olá tudo bem?",
+    "mensagemdm": "Sou o Bot para estudo do Pedroow, se precisa de suporte é só entrar no link abaixo e abrir um ticket",
+    "tituloembedmarcaçao": "Olá tudo bem ?",
+    "mensagemmarcaçao": "Meu prefixo nesse servidor é ! para ver o oque eu posso fazer, use !ajuda",
+    "tituloembedmysql": "Informação do HR BOT MAX",
+    "descriçaoembedmysql": "Bot conectado ao MySQL HR BOT MAX",
+    "gifembedmysql": "https://cdn.discordapp.com/attachments/753714707428409428/753795305065021591/running-client.gif",
+    "thumbnailembedmysql": "https://cdn.discordapp.com/attachments/753683631238545516/753765416177893450/Laranja.png",
+    "emojientrou": "<a:entrou:754084575969411163>",
+    "emojiligado": "<:ligado:753737310167760927>",
+    "emojisino": "<a:sino:753736876111822969>",
+    "emojipepe": "<a:pepeparabens:753730882489155654>"
+}
